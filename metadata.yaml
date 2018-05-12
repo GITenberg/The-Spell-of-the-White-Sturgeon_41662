@@ -1,0 +1,34 @@
+_repo: The-Spell-of-the-White-Sturgeon_41662
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Elgard, Jim
+    - Kjelgaard, James Arthur
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: Adventure story about life in the 1860's along the Wisconsin shore of
+  Lake Michigan.
+gutenberg_issued: '2012-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Wisconsin -- Juvenile fiction'
+- !lcsh 'Fishers -- Juvenile fiction'
+- !lcsh 'Fishes -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Spell of the White Sturgeon
+url: http://www.gutenberg.org/ebooks/41662
